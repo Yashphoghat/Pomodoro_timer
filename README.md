@@ -6,7 +6,6 @@ A simple Pomodoro Timer web application built using HTML, CSS, and JavaScript.
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 
@@ -22,9 +21,6 @@ The Pomodoro Technique is a time management method that uses a timer to break wo
 - Switch between work and break periods automatically
 - Simple and intuitive user interface
 
-## Demo
-
-You can see a live demo of the Pomodoro Timer [here](#) (Add link to your live demo if available).
 
 ## Installation
 
